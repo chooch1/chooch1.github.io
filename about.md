@@ -14,7 +14,6 @@ In general, I find myself drawn to interdisciplinary subjects, but my chief curi
 - Neuroscience/Cognitive Science: development, 
 - [Effective Altruism](https://www.effectivealtruism.org/): a growing global community trying to study and share the best approaches to philanthropic impact, with notable connections to animal welfare movements, catastrophic risk reduction, and 
 
-
 <!-- [My resume (last updated on ?)](../documents/.pdf) -->
 
 ## Current Projects
@@ -23,16 +22,4 @@ In general, I find myself drawn to interdisciplinary subjects, but my chief curi
 
 ### Other Locations on the Interwebs
 
-I am pretty active on [Twitter](https://twitter.com/TrentonBricken) and sometimes upload my film photography to [Instagram](https://www.instagram.com/needs__exposure/?hl=en).
-
 ### Get in Touch
-
-If any of the things I have mentioned are interesting to you please reach out! I love to meet new people.
-
-[brickentrenton@gmail.com](mailto:brickentrenton@gmail.com)
-
-### Anonymous Feedback
-
-Have any feedback for me? Please consider filling out this anonymous feedback form so that I can learn and grow :)
-
-<https://forms.gle/VcY3vQgkdf6c69dr7>
