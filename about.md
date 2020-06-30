@@ -6,16 +6,9 @@ permalink: /about/
 
 ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}
 
-Hi, I'm Trenton. I am very interested in applying machine learning to impactful problems in biology, particularly towards biosecurity (defined as the prevention of natural and man-made epidemics). I also like to read and think about neuroscience and reinforcement learning and, of course, Original Glazed Krispy Kreme Doughnuts (get 'em while they're hot!).
+Hi, I'm Joe Choo-Choy. I'm an undergraduate student at Duke University, studying systems biology.
 
-Information about me:
-* I'm an incoming PhD student in the Systems, Synthetic and Quantitative Biology Program at Harvard. 
-* I graduated from Duke University in 2020 with a self-made major in Biological and Artificial Intelligence. I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/) which provided full funding during all four years, including summer experiences.
-* During my time at Duke I spent a year (June 2018 - May 2019) doing research in  [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) at Duke using machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then through my Senior Thesis research.
-
-My favourite blogs include: <https://slatestarcodex.com> and <https://www.gwern.net> because of their very rigorous, in depth analysis of all sorts of interesting topics.
-
-My favourite books include: Superintelligence by Nick Bostrom, Symbolic Species by Terrence Deacon and The Mote in God's Eye by Jerry Pournelle and Larry Niven.
+My chief interests are in philosophy, biology, and neuroscience, Effective Altruism \([especially](https://www.effectivealtruism.org/)\).
 
 I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
@@ -35,11 +28,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com/citatio
 
 * RL Learning Byzantine Fault Tolerant (BFT) Consensus Protocols - Supervised by Dr. Kartik Nayak, Final Class Project turned research project - Investigating the ability for deep reinforcement learning agents to discover and prove BFT consensus protocols.
 
-## Past Projects (see [GitHub](https://github.com/TrentBrick))
-
-* [Tail Free Sampling](https://trentbrick.github.io/Tail-Free-Sampling/) - Independent project, advice from friends and mentors - Developing a new method to sample sequences from autoregressive neural networks for open-ended sequence generation.
-
-* [Primary and Tertiary Protein AutoEncoder](https://github.com/TrentBrick/PAE) - Final Class Project - seeing if a deep AutoEncoder can learn the relationship between protein sequence and tertiary structure in order to then do either sequence or structure optimization in the latent space.
+## Past Projects (see [GitHub]())
 
 * [Facebook Chatbot for Spaced Repetition Learning](https://github.com/TrentBrick/MMRY) - HackDuke 2016 - Spaced Repetition is wonderful and highly neglected (<https://www.gwern.net/Spaced-repetition>). Can we make it more popular and easy to do routinely using a Facebook Chatbot to both harass and motivate us?
 
