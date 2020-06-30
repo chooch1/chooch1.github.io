@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I'm Joe Choo-Choy. I'm an undergraduate student at Duke University, studying systems biology.
 
-My chief interests are in philosophy, biology, and neuroscience, Effective Altruism \([especially](https://www.effectivealtruism.org/)\).
+My chief interests are in philosophy, biology, and neuroscience, Effective Altruism ([especially](https://www.effectivealtruism.org/)).
 
 I am involved in the movement/philosphy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org).
 
